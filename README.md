@@ -8,3 +8,6 @@
 ![logic_model drawio](https://user-images.githubusercontent.com/65976385/161466611-3b0fc902-7189-4a45-90db-4c6b7c92246b.svg)
 
 ## Физическая модель
+Column | Column
+------ | ------
+Cell   | Cell  
