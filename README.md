@@ -10,8 +10,8 @@
 ## Физическая модель
 
 **Заказ**
-Field name | Description | Data type | Restrictions |
------- | ------|------|------|
-Cell   | Cell ||| 
-Cell   | Cell ||| 
-Cell   | Cell ||| 
+Field name | Data type | Size (bytes)|
+------ | ------|------|
+ID_order   |  INT | 4|
+ID_employee   | INT | 4| 
+ID_client   | INT | 4|
