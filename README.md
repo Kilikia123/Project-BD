@@ -36,7 +36,7 @@ Field name |Description | Data type | Restrictions|
 ID_client| Индентификатор клиента   |  INT | NOT NULL|
 email  | Почта клиента| VARCHAR(40) | | 
 phone_number | Номер телефона клиента  | INT ||
-user_name  | Имя клиента | VARCHAR(20) | 21|
+user_name  | Имя клиента | VARCHAR(20) | |
 user_last_name | Фамилие клиента | VARCHAR(20) | |
 user_birth | Дата рождения клиента | DATE | |
 card_number | Банковская карта клиента | VARCHAR(40) | |
@@ -55,8 +55,8 @@ Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_employee | Индентификатор сотрудника  |  INT | NOT NULL|
 salary  | Зарплата сотрудника | INT | | 
-employee_name | Имя сотрудника | VARCHAR(20) | 21|
-employee_last_name |Фамилие сотрудника  | VARCHAR(20) | 21|
-employee_birth |Дата рождения сотрудника  | DATE | 3| 
+employee_name | Имя сотрудника | VARCHAR(20) | |
+employee_last_name |Фамилие сотрудника  | VARCHAR(20) | |
+employee_birth |Дата рождения сотрудника  | DATE | | 
 phone_number | Номер телефона  | INT | |
 card_number  | Банковская карта |  VARCHAR(40) | |
