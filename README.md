@@ -1,4 +1,4 @@
-# Проект по БД
+# Проект по БД "Розничный магазин строительных материалов"
 
 ## Концептуальная модель
 ![conceptual_model drawio (1)](https://user-images.githubusercontent.com/65976385/161466593-456fee18-08a9-48bb-8e51-66d5382adba6.svg)
