@@ -40,6 +40,7 @@ user_name  | Имя клиента | VARCHAR(20) | |
 user_last_name | Фамилие клиента | VARCHAR(20) | |
 user_birth | Дата рождения клиента | DATE | |
 card_number | Банковская карта клиента | VARCHAR(40) | |
+grade | Оценка сотрудника | INT | |
 
 **Оплата заказа**
 Field name |Description | Data type | Restrictions|
@@ -60,3 +61,4 @@ employee_last_name |Фамилие сотрудника  | VARCHAR(20) | |
 employee_birth |Дата рождения сотрудника  | DATE | | 
 phone_number | Номер телефона  | INT | |
 card_number  | Банковская карта |  VARCHAR(40) | |
+grade | Оценка сотрудника | INT | |
