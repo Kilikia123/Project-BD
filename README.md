@@ -16,13 +16,6 @@ ID_order |Индентификатор заказа  |  INT | NOT NULL|
 ID_employee |Индентификатор сотрудника  | INT | NOT NULL| 
 ID_client  | Индентификатор клиента | INT | NOT NULL|
 
-**Описание заказов**
-Field name |Description | Data type | Restrictions|
------- | ------|------|------|
-ID_order |  Индентификатор заказа |  INT | NOT NULL|
-ID_product | Индентификатор товара  | INT | NOT NULL| 
-amount_product | Кол-во товара   | INT | NOT NULL|
-
 **Ассортимент товаров**
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
