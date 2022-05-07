@@ -33,10 +33,11 @@ user_last_name | Фамилие клиента | VARCHAR(20) | |
 user_birth | Дата рождения клиента | DATE | |
 card_number | Банковская карта клиента | VARCHAR(40) | |
 
-**Оплата заказа**
+**Описание заказа**
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_order |Индентификатор заказа |  INT | NOT NULL|
+ID_client |Индентификатор клиента |  INT | NOT NULL|
 total_amount | Общая сумма заказа | INT | NOT NULL| 
 is_paid | Оплачен ли заказ | BIT | NOT NULL|
 delivery_method |  Способ доставки |  VARCHAR(20) | NOT NULL|
