@@ -14,6 +14,7 @@ Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_order |Индентификатор заказа  |  INT | NOT NULL|
 ID_client  | Индентификатор клиента | INT | NOT NULL|
+amount_product  | Кол-во этого товара | INT | NOT NULL|
 
 **Ассортимент товаров**
 Field name |Description | Data type | Restrictions|
