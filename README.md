@@ -9,7 +9,7 @@
 
 ## Физическая модель
 
-**Заказ**
+**Описание заказ**
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_order |Индентификатор заказа  |  INT | NOT NULL|
@@ -33,7 +33,7 @@ user_last_name | Фамилие клиента | VARCHAR(20) | |
 user_birth | Дата рождения клиента | DATE | |
 card_number | Банковская карта клиента | VARCHAR(40) | |
 
-**Описание заказа**
+**Заказ**
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_order |Индентификатор заказа |  INT | NOT NULL|
