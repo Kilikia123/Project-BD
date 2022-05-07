@@ -5,7 +5,7 @@
 
 
 ## Логическая модель
-![logic_model drawio (1)](https://user-images.githubusercontent.com/65976385/161645735-630178c4-9f3c-4abb-a9d3-9ccb91c9699e.svg)
+![logic_model drawio (2)](https://user-images.githubusercontent.com/65976385/167273163-ed39e391-f508-4383-8602-d9c8daf07273.svg)
 
 ## Физическая модель
 
