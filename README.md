@@ -1,11 +1,11 @@
 # Проект по БД "Розничный магазин строительных материалов"
 
 ## Концептуальная модель
-![conceptual_model drawio](https://user-images.githubusercontent.com/65976385/167273460-59540c81-bddb-461a-a9c8-c0ede51a1e66.svg)
+![conceptual_model drawio (1)](https://user-images.githubusercontent.com/65976385/167299086-89599ea3-c212-4c85-9149-03676d0fc308.svg)
 
 
 ## Логическая модель
-![logic_model drawio](https://user-images.githubusercontent.com/65976385/167273450-490e8ed6-aa99-46dc-a084-4b39885d88d9.svg)
+![logic_model drawio (1)](https://user-images.githubusercontent.com/65976385/167299095-90a7bab0-08ad-45a3-b15b-6425adc899f2.svg)
 
 ## Физическая модель
 
