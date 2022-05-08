@@ -20,6 +20,7 @@ amount_product  | Кол-во этого товара | INT | NOT NULL|
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_product |Индентификатор товара  |  INT | NOT NULL|
+ID_provider |Индентификатор поставщика  |  INT | |
 description |Описание товара   | VARCHAR(700) | | 
 price_pr  |Цена товара | INT | |
 
