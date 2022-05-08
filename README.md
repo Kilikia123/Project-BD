@@ -9,7 +9,7 @@
 
 ## Физическая модель
 
-**Описание заказ**
+**Товары к заказу**
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_order |Индентификатор заказа  |  INT | NOT NULL|
