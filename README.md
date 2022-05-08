@@ -39,7 +39,18 @@ Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_order |Индентификатор заказа |  INT | NOT NULL|
 ID_client |Индентификатор клиента |  INT | NOT NULL|
+ID_emplyee |Индентификатор сотрудника |  INT | NOT NULL|
 total_amount | Общая сумма заказа | INT | NOT NULL| 
 is_paid | Оплачен ли заказ | BIT | NOT NULL|
 delivery_method |  Способ доставки |  VARCHAR(20) | NOT NULL|
 payment_method | Способ оплаты | VARCHAR(20) | NOT NULL| 
+
+
+**Сотрудник**
+Field name |Description | Data type | Restrictions|
+------ | ------|------|------|
+ID_employee| Индентификатор клиента   |  INT | NOT NULL|
+post  | Должность| VARCHAR(40) | | 
+name  | Имя сотрудника | VARCHAR(20) | |
+last_name | Фамилие сотрудника | VARCHAR(20) | |
+card_number | Банковская карта сотрудника | VARCHAR(40) | |
