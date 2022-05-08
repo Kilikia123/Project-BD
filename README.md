@@ -55,7 +55,7 @@ name  | Имя сотрудника | VARCHAR(20) | |
 last_name | Фамилие сотрудника | VARCHAR(20) | |
 card_number | Банковская карта сотрудника | VARCHAR(40) | |
 
-**Поставшик**
+**Поставщик**
 Field name |Description | Data type | Restrictions|
 ------ | ------|------|------|
 ID_provider| Индентификатор поставщика   |  INT | NOT NULL|
